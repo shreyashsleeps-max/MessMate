@@ -14,7 +14,7 @@ MessMate is a digital mess management platform designed to solve the critical is
 
 ## 🔗 Live Deployment
 The project is currently deployed and live for beta testing.
-👉 **[Click Here to Open MessMate Dashboard]((https://messmate.short.gy/cy2vU8))**
+👉 **[Click Here to Open MessMate Dashboard] https://messmate.short.gy/cy2vU8**
 
 ## 🛠️ Architecture
 This project utilizes a modern cloud-native architecture:
